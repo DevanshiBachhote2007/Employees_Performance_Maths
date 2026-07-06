@@ -183,7 +183,8 @@ data = pd.read_csv("employee_performance_dataset.csv")
 data
 ```
 
-![Step 1 Output Screenshot](screenshots/step1.png)
+<img width="948" height="382" alt="image" src="https://github.com/user-attachments/assets/67dce5fb-7d72-4644-af26-78e07c0b4332" />
+
 
 ---
 
@@ -209,7 +210,7 @@ print("Variance of Projects_Completed:", variance)
 print("Standard Deviation of Projects_Completed:", std_dev)
 ```
 
-![Step 2 Output Screenshot](screenshots/step2.png)
+<img width="654" height="532" alt="image" src="https://github.com/user-attachments/assets/7e3cffa9-0184-4311-8c3c-a7e7b5bad03f" />
 
 ---
 
@@ -234,7 +235,10 @@ cond_prob = (high_perf['Promotion_Status'] == 'Yes').mean()
 print("P(Promotion | Performance_Score > 80):", cond_prob)
 ```
 
-![Step 3 Output Screenshot](screenshots/step3.png)
+<img width="709" height="575" alt="image" src="https://github.com/user-attachments/assets/0001c948-1736-47f2-b81a-de2fada101eb" />
+<img width="763" height="300" alt="image" src="https://github.com/user-attachments/assets/2b47396e-d4a9-4556-a662-e69385f90321" />
+
+
 
 ---
 
@@ -254,6 +258,7 @@ plt.xlabel("Performance Score")
 plt.ylabel("Frequency")
 plt.show()
 ```
+<img width="736" height="497" alt="image" src="https://github.com/user-attachments/assets/840e1757-0016-47f8-9bc2-811fcd0dfab1" />
 
 ```python
 skewness = data['Salary'].skew()
@@ -261,6 +266,7 @@ kurtosis = data['Salary'].kurt()
 print("Skewness of Salary:", skewness)
 print("Kurtosis of Salary:", kurtosis)
 ```
+<img width="562" height="289" alt="image" src="https://github.com/user-attachments/assets/3b29cd20-2ba2-4203-8ad3-782fd358af17" />
 
 ```python
 import scipy.stats as stats
@@ -269,8 +275,8 @@ stats.probplot(data['Projects_Completed'], dist="norm", plot=plt)
 plt.title("Q-Q Plot of Projects Completed")
 plt.show()
 ```
+<img width="581" height="582" alt="image" src="https://github.com/user-attachments/assets/2aa19bc9-d65d-43dd-9aa7-fd31232d9734" />
 
-![Step 4 Output Screenshot](screenshots/step4.png)
 
 ---
 
@@ -297,7 +303,10 @@ angle = np.degrees(np.arccos(cos_theta))
 print("Angle between Emp1 and Emp2:", angle, "degrees")
 ```
 
-![Step 5 Output Screenshot](screenshots/step5.png)
+<img width="796" height="663" alt="image" src="https://github.com/user-attachments/assets/ab1b33cd-4720-49ff-a59d-4a89a8bfb279" />
+<img width="958" height="237" alt="image" src="https://github.com/user-attachments/assets/c547f969-02e2-4a37-bf01-d516d2a58591" />
+<img width="1448" height="563" alt="image" src="https://github.com/user-attachments/assets/6a5d7e7f-75c6-46c5-8191-90a7d90442ea" />
+
 
 ---
 
