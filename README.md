@@ -17,13 +17,8 @@
 
 <br>
 
-<div align="center">
-  <!-- Show the Tenor GIF directly; also provide a static/local fallback image that links to the Tenor page -->
-  <a href="https://tenor.com/bfZT7" target="_blank" rel="noopener noreferrer">
-    <img src="math-animation.gif" alt="Math Animation (click to view GIF on Tenor)" width="420" />
-  </a>
   
-  <!-- If the host allows hotlinking the Tenor GIF, it will appear below the linked static image for viewers on platforms that support it -->
+  
   <p>
     <img src="https://tenor.com/bfZT7.gif" alt="Math Animation GIF" width="420" />
   </p>
@@ -46,7 +41,7 @@
   &nbsp;  <a href="https://drive.google.com/file/d/10aOYHues0dtTrmSqII4ECA4dRO3TEbge/view?usp=sharing">
     <img src="https://img.shields.io/badge/Project_Video-Watch_Now-0078D4?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  &nbsp;  <a href="https://github.com/DevanshiBachhote2007/Employees_Performance/issues">
+  &nbsp;  <a href="[https://github.com/DevanshiBachhote2007/Employees_Performance/issues](https://docs.google.com/document/d/1IorRxoq2bN7OSpxftTfGyZPCxMPkL2EOHsgCHWLitwM/edit?tab=t.0)">
     <img src="https://img.shields.io/badge/Questions-View_Question-009688?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
