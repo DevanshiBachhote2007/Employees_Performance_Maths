@@ -1,10 +1,6 @@
 <div align="center">
 
-<div align="center">
-
 # Employees Performance Practical
-
-### Applied Employee Performance Analysis using Python
 
 <br>
 
@@ -329,7 +325,12 @@ print("Angle between Emp1 and Emp2:", angle, "degrees")
 
 ---
 
-## Author
+<hr />
 
-**Devanshi Bachhote**
-
+<div align="center">
+  <p>Maintained by <b>Devanshi Bachhote</b> — Let's connect!</p>
+  <p>
+    <a href="[https://www.linkedin.com/in/devanshi-bachhote/](https://www.linkedin.com/in/devanshi-bachhote/)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" /></a>
+    <a href="devanshibachhote@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" /></a>
+  </div>
+</div>
