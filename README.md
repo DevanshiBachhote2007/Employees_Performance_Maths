@@ -1,8 +1,16 @@
 <div align="center">
 
+<div align="center">
+
 # Employees Performance Practical
 
 ### Applied Employee Performance Analysis using Python
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=+Analyze+Employee+Performance+Using+Python;Statistics+%7C+Probability+%7C+Linear+Algebra;Machine+Learning+Implementation;" alt="Typing SVG" />
+</p>
 
 <br>
 
@@ -17,11 +25,17 @@
 
 <br>
 
+ <p align="center">
+  <a href="https://drive.google.com/file/d/1eQMuseGmfFsuVNvHBpCoV2GTopvOvys1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Concept%20Video-Click%20To%20Play-00BFFF?style=for-the-badge&logo=youtube&logoColor=white" alt="Click to Play Video" \>
+  </a>
+</p>
+<p align="center" style="margin-top: -10px;">
+  <a href="https://drive.google.com/file/d/1eQMuseGmfFsuVNvHBpCoV2GTopvOvys1/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-monitor/master/images/click.gif" width="35" alt="Click Here" />
+  </a>
+</p> 
   
-  
-  <p>
-    <img src="https://tenor.com/bfZT7.gif" alt="Math Animation GIF" width="420" />
-  </p>
 </div>
 
 <br>
