@@ -18,7 +18,15 @@
 <br>
 
 <div align="center">
-  <img src="https://tenor.com/bfZT7.gif" alt="Math Animation" width="420" />
+  <!-- Show the Tenor GIF directly; also provide a static/local fallback image that links to the Tenor page -->
+  <a href="https://tenor.com/bfZT7" target="_blank" rel="noopener noreferrer">
+    <img src="math-animation.gif" alt="Math Animation (click to view GIF on Tenor)" width="420" />
+  </a>
+  
+  <!-- If the host allows hotlinking the Tenor GIF, it will appear below the linked static image for viewers on platforms that support it -->
+  <p>
+    <img src="https://tenor.com/bfZT7.gif" alt="Math Animation GIF" width="420" />
+  </p>
 </div>
 
 <br>
@@ -51,7 +59,7 @@
 
 > **What if employee performance could be explained with math?**
 
-This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, an[...]
+This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, an[...] 
 
 ---
 
