@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=+Analyze+Employee+Performance+Using+Python;Statistics+%7C+Probability+%7C+Linear+Algebra;Machine+Learning+Implementation;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=+Analyze+Employee+Performance+Using+Python;Statistical+Analysis+%26+Probability;Linear+Algebra+Applications" />
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 
  <p align="center">
   <a href="https://drive.google.com/file/d/1eQMuseGmfFsuVNvHBpCoV2GTopvOvys1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Concept%20Video-Click%20To%20Play-00BFFF?style=for-the-badge&logo=youtube&logoColor=white" alt="Click to Play Video" \>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Concept%20Video-Click%20To%20Play-00BFFF?style=for-the-badge&logo=youtube&logoColor=white" alt="Click to Play Video" />
   </a>
 </p>
 <p align="center" style="margin-top: -10px;">
@@ -51,7 +51,7 @@
   &nbsp;  <a href="https://drive.google.com/file/d/10aOYHues0dtTrmSqII4ECA4dRO3TEbge/view?usp=sharing">
     <img src="https://img.shields.io/badge/Project_Video-Watch_Now-0078D4?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  &nbsp;  <a href="[https://github.com/DevanshiBachhote2007/Employees_Performance/issues](https://docs.google.com/document/d/1IorRxoq2bN7OSpxftTfGyZPCxMPkL2EOHsgCHWLitwM/edit?tab=t.0)">
+  &nbsp;  <a href="https://docs.google.com/document/d/1IorRxoq2bN7OSpxftTfGyZPCxMPkL2EOHsgCHWLitwM/edit?tab=t.0">
     <img src="https://img.shields.io/badge/Questions-View_Question-009688?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -64,7 +64,7 @@
 
 > **What if employee performance could be explained with math?**
 
-This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, an[...] 
+This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, and working hours relate to career advancement.
 
 ---
 
@@ -190,7 +190,6 @@ data
 
 <img width="948" height="382" alt="image" src="https://github.com/user-attachments/assets/67dce5fb-7d72-4644-af26-78e07c0b4332" />
 
-
 ---
 
 ### Step 2 - Central Tendency & Dispersion
@@ -243,8 +242,6 @@ print("P(Promotion | Performance_Score > 80):", cond_prob)
 <img width="709" height="575" alt="image" src="https://github.com/user-attachments/assets/0001c948-1736-47f2-b81a-de2fada101eb" />
 <img width="763" height="300" alt="image" src="https://github.com/user-attachments/assets/2b47396e-d4a9-4556-a662-e69385f90321" />
 
-
-
 ---
 
 ### Step 4 - Distributions & Visualization
@@ -263,6 +260,7 @@ plt.xlabel("Performance Score")
 plt.ylabel("Frequency")
 plt.show()
 ```
+
 <img width="736" height="497" alt="image" src="https://github.com/user-attachments/assets/840e1757-0016-47f8-9bc2-811fcd0dfab1" />
 
 ```python
@@ -271,6 +269,7 @@ kurtosis = data['Salary'].kurt()
 print("Skewness of Salary:", skewness)
 print("Kurtosis of Salary:", kurtosis)
 ```
+
 <img width="562" height="289" alt="image" src="https://github.com/user-attachments/assets/3b29cd20-2ba2-4203-8ad3-782fd358af17" />
 
 ```python
@@ -280,8 +279,8 @@ stats.probplot(data['Projects_Completed'], dist="norm", plot=plt)
 plt.title("Q-Q Plot of Projects Completed")
 plt.show()
 ```
-<img width="581" height="582" alt="image" src="https://github.com/user-attachments/assets/2aa19bc9-d65d-43dd-9aa7-fd31232d9734" />
 
+<img width="581" height="582" alt="image" src="https://github.com/user-attachments/assets/2aa19bc9-d65d-43dd-9aa7-fd31232d9734" />
 
 ---
 
@@ -312,7 +311,6 @@ print("Angle between Emp1 and Emp2:", angle, "degrees")
 <img width="958" height="237" alt="image" src="https://github.com/user-attachments/assets/c547f969-02e2-4a37-bf01-d516d2a58591" />
 <img width="1448" height="563" alt="image" src="https://github.com/user-attachments/assets/6a5d7e7f-75c6-46c5-8191-90a7d90442ea" />
 
-
 ---
 
 ## Files in this repository
@@ -325,12 +323,15 @@ print("Angle between Emp1 and Emp2:", angle, "degrees")
 
 ---
 
-<hr />
-
 <div align="center">
   <p>Maintained by <b>Devanshi Bachhote</b> — Let's connect!</p>
   <p>
-    <a href="[https://www.linkedin.com/in/devanshi-bachhote/](https://www.linkedin.com/in/devanshi-bachhote/)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" /></a>
-    <a href="devanshibachhote@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" /></a>
-  </div>
+    <a href="https://www.linkedin.com/in/devanshi-bachhote/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:devanshibachhote@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
