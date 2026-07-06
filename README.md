@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="math-animation.gif" alt="Math Animation" width="420" />
+  <img src="https://tenor.com/bfZT7.gif" alt="Math Animation" width="420" />
 </div>
 
 <br>
@@ -51,7 +51,7 @@
 
 > **What if employee performance could be explained with math?**
 
-This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, and promotion are connected.
+This project analyzes an employee dataset using Python and Jupyter Notebook. It combines statistics, probability, visualization, and vector math to show how salary, productivity, performance score, an[...]
 
 ---
 
@@ -306,6 +306,4 @@ print("Angle between Emp1 and Emp2:", angle, "degrees")
 ## Author
 
 **Devanshi Bachhote**
-
-
 
